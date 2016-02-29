@@ -1,0 +1,5 @@
+Today was the first day of DevCodeCamp.  We bagan the day with a basic lecture on binary and then proceeded to apply what we learned by completing a task that involved converting numbers between binary, octal, hex and decimals. 
+
+Next we did a lecture on basic components that make up a computer including all of the hardware and associated terminology. We applied what we learned by completing a task that involved researching and "building" a computer from scratch.  Each group had to complete the task within certain dollar amounts and ensure all components were compatible. 
+
+In the afternoon, we had a lecture on Git. We did some basic drills and explored various Git functions.  We broke into groups to apply the commands we learned and apply them to a basic text document such as this one.  
