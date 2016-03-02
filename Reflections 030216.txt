@@ -1,0 +1,7 @@
+Today we began after our scrum meeting by reviewing and making alterations to our website creation using html and css.
+I made changes to the site when we were told a table was needed.  It changed it to a basic Freedom PT hockey site with stats.
+Lectures followed the the website construction to include more internet related background, 3 various tiers, etc... The lecture then proceeded with how to more effectively use google. 
+Basic google tasks followed including learnign what IIS is and activate it on our computers
+	I still need more information and explanation about the IIS and how to host a site on my own computer.
+We had a group review of what we learned so far followed by a handwritten test. I did not feel too good about how I did on the test as I struggled to properly make adjustments with html and css on my website creation.
+Another google task followed the test.
