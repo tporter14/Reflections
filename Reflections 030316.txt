@@ -1,0 +1,6 @@
+Today we reviewed out written test and was surprised to do slightly better than I thought. 
+
+Lecture covered the basics of Java in the morning and we proceeded to create a simpe payroll calculator.
+After lunch and additional lecture on conditionals, we were tasked to expand out pay calculators.
+
+We also were tasked with creating an adventure story using the conditionals.  This forced us to continue learning deeper into Java and how to creat various things.  
